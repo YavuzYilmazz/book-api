@@ -1,0 +1,25 @@
+{
+  "name": "hubx",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --timeout 5000",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  }
+}
