@@ -143,7 +143,7 @@ npm test
 
 ## API Documentation
 
-# API Endpoints
+### API Endpoints
 
 | Method | Endpoint                         | Description                           |
 |--------|----------------------------------|---------------------------------------|
