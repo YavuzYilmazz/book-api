@@ -17,7 +17,7 @@ This project is a **Book Management API** built using Node.js, Express, and Mong
 8. [Docker Usage](#docker-usage)
 9. [Contributing](#contributing)
 10. [Contact](#contact)
-11. [Help Video]
+11. [Help Video](#help-video)
 
 ---
 
@@ -143,7 +143,7 @@ npm test
 
 ## API Documentation
 
-## API Endpoints
+# API Endpoints
 
 | Method | Endpoint                         | Description                           |
 |--------|----------------------------------|---------------------------------------|
