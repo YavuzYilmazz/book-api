@@ -113,7 +113,7 @@ Once you've set up the environment variables, you can run the project locally or
 2. **Start the app:**
 
    ```bash
-   npm start
+   node server.js
    ```
 
 The application will run on `http://localhost:3000`.
