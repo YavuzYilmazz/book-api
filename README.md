@@ -245,7 +245,7 @@ Delete a book by ID.
 - **Response:**
   ```json
   {
-    "message": "Book updated successfully!"
+    "message": "Book deleted successfully!"
   }
   ```
 
