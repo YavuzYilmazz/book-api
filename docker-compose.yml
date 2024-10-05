@@ -2,8 +2,6 @@ version: '3.8'
 services:
   backend:
     build: .
-    ports:
-      - "3000:3000"
     environment:
       - MONGO_URI=mongodb://root:example@mongo:27017/Book?authSource=admin
     depends_on:
@@ -11,8 +9,6 @@ services:
 
   mongo:
     image: mongo:latest
-    ports:
-      - "27018:27017" 
     volumes:
       - ./data/db:/data/db
     environment:
