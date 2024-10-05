@@ -303,3 +303,5 @@ If you'd like to contribute, please fork the repository and use a feature branch
 If you have any questions or need help with the setup, feel free to reach out to me at [yavuz.yilmaz1@outlook.com].
 
 ## Help Video
+
+You can watch this video https://youtu.be/yEsCGswNr88
